@@ -62,7 +62,7 @@ const prompts = [
     "Are you positive?",
     "Pookie, my baby, please...",
     "Aynn, Please... ☹️", 
-    "Just think about it!",
+    "Just think about it!", 
     "If you say no, I will be really sad...",
     "I will be very sad...",
     "I will be so sad, just say yes ...", 
